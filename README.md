@@ -506,32 +506,6 @@ rm -rf app/build/
 
 C++ 代码位于 `app/src/main/cpp/` 目录。修改后需要重新构建项目。
 
-## 🔧 开发工具下载链接
-
-- [Android Studio](https://developer.android.com/studio) - 官方 IDE
-- [JDK 下载](https://adoptium.net/) - OpenJDK（推荐）
-- [Git 下载](https://git-scm.com/downloads) - 版本控制工具
-- [Android 开发者文档](https://developer.android.com/docs) - 官方文档
-
-## 📖 相关技术文档
-
-- [Kotlin 官方文档](https://kotlinlang.org/docs/home.html)
-- [Android NDK 指南](https://developer.android.com/ndk/guides)
-- [CMake 文档](https://cmake.org/documentation/)
-- [Draco 3D 压缩库](https://github.com/google/draco)
-- [Java-WebSocket 库](https://github.com/TooTallNate/Java-WebSocket)
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-### 贡献指南
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
 
 ## 📝 更新日志
 
@@ -542,21 +516,7 @@ C++ 代码位于 `app/src/main/cpp/` 目录。修改后需要重新构建项目�
 - ⚡ C++ 原生点云处理
 - 📦 集成 Draco 3D 压缩库
 
-## 📄 许可证
-
-[添加您的许可证信息]
-
-## 👥 联系方式
-
-- **项目地址**: [https://github.com/caiyp7/Pointcloud](https://github.com/caiyp7/Pointcloud)
-- **问题反馈**: [提交 Issue](https://github.com/caiyp7/Pointcloud/issues)
-- **维护者**: [添加您的联系方式]
-
-## ⭐ Star History
-
-如果这个项目对你有帮助，请给个 Star ⭐️ 支持一下！
-
 ---
 
-**最后更新**: 2024-12-02
+**最后更新**: 2025-12-02
 
